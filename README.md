@@ -1,4 +1,4 @@
-# Excel-Analysis-Pivot-Tables-Summary-Insight--Task-2
+# Excel-Analysis-Pivot-Tables Summary & Insight-Task2
 
 # Objective: Excel Pivot Table Analysis
 This task focuses on analyzing sales data using Excel Pivot Tables.
